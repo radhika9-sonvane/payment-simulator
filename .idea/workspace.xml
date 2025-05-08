@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="928ebcba-bc85-4ef2-a9af-89a4c0db6997" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/PaymentSimualatorApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/config/JwtFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/controller/AuthController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/controller/PaymentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/dto/AuthRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/dto/AuthResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/dto/ErrorResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/dto/PaymentConfirmRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/dto/PaymentInitiateRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/dto/PaymentInitiateResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/dto/RegisterRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/entity/Payment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/exception/ApiErrorException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/exception/EmailAlreadyExistsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/repository/PaymentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/service/AuthService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/service/CustomUserDetailsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/service/PaymentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/service/impl/AuthServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/service/impl/PaymentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paymentSimualator/target/classes/com/tech/paymentSimualator/util/JwtUtil.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wmF1Xt3k79eNnE2mQmmEViSKtZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PaymentSimualatorApplication.executor": "Run",
+    "Maven.paymentSimualator [clean,install].executor": "Run",
+    "Maven.paymentSimualator [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Radhika/Downloads/paymentSimualator",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+      <command value="mvn clean" />
+      <command value=" mvn clean compile" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PaymentSimualatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tech.paymentSimualator.PaymentSimualatorApplication" />
+      <module name="paymentSimualator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.paymentSimualator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PaymentSimualatorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="928ebcba-bc85-4ef2-a9af-89a4c0db6997" name="Changes" comment="" />
+      <created>1746638628270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746638628270</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1746734345469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746734345469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
